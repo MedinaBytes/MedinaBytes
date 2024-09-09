@@ -1,15 +1,15 @@
+![210012254-234538ff-d198-48aa-8964-37e6fd45d227](https://github.com/user-attachments/assets/c01905b8-ffc2-41a5-b57d-b7175020af3c)
+
 <h1 align="center">Hi 👋, I'm Jonathan Medina</h1>
-<h3 align="center">A Full-Stack Developer | Cloud & AI Enthusiast | Server Support Specialist from Venezuela 🇻🇪</h3>
+<h3 align="center">A Full-Stack Developer | Cloud & AI Enthusiast | Server Support Specialist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=medinabytes&label=Profile%20views&color=0e75b6&style=flat" alt="medinabytes" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=medinabytes" alt="medinabytes" /></a> </p>
 
 - 🔭 I’m currently working on **Microsoft**
 
 - 🌱 I’m currently learning **Generative AI and DevOps**
 
-- 📝 I regularly write articles on [tecnologiacontigo.com](tecnologiacontigo.com)
+- 📝 Microsoft Certificated on MS-900, AZ-900 and MS-900
 
 - 📫 How to reach me **jonathan.medinalabrador@gmail.com**
 
@@ -27,9 +27,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/medinabytes"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="medinabytes" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=medinabytes&show_icons=true&locale=en&layout=compact" alt="medinabytes" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=medinabytes&show_icons=true&locale=en" alt="medinabytes" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=medinabytes&" alt="medinabytes" /></p>
