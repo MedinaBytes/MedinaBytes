@@ -10,12 +10,12 @@
 - 🌱 I’m currently learning **Generative AI and DevOps**
 
 - 📝 Microsoft Certificated on
-  AZ-900 - Microsoft Azure Fundamentals: Covers basic cloud services and concepts in Azure, ideal for beginners in cloud computing.
-  AI-900 - Microsoft Azure AI Fundamentals: Focuses on fundamental concepts in AI, including machine learning and Azure's AI services.
-  DP-900 - Microsoft Azure Data Fundamentals: Provides an introduction to core data concepts and how they're applied in Azure data services.
-  MS-900 - Microsoft 365 Fundamentals: Explores the fundamentals of Microsoft 365 services, including cloud concepts and Microsoft’s productivity cloud services.
-  PL-900 - Microsoft Power Platform Fundamentals: Covers the basics of Microsoft Power Platform, such as Power BI, Power Apps, and Power Automate, focusing on data analysis and automation.
-  SC-900 - Microsoft Security, Compliance, and Identity Fundamentals: Introduces security, compliance, and identity solutions across Microsoft Azure and Microsoft 365 environments.
+  <p align="left">AZ-900 - Microsoft Azure Fundamentals: Covers basic cloud services and concepts in Azure, ideal for beginners in cloud computing.</p>
+  <p align="left">AI-900 - Microsoft Azure AI Fundamentals: Focuses on fundamental concepts in AI, including machine learning and Azure's AI services.</p>
+  <p align="left">DP-900 - Microsoft Azure Data Fundamentals: Provides an introduction to core data concepts and how they're applied in Azure data services.</p>
+  <p align="left">MS-900 - Microsoft 365 Fundamentals: Explores the fundamentals of Microsoft 365 services, including cloud concepts and Microsoft’s productivity cloud services.</p>
+  <p align="left">PL-900 - Microsoft Power Platform Fundamentals: Covers the basics of Microsoft Power Platform, such as Power BI, Power Apps, and Power Automate, focusing on data analysis and automation.</p>
+  <p align="left">SC-900 - Microsoft Security, Compliance, and Identity Fundamentals: Introduces security, compliance, and identity solutions across Microsoft Azure and Microsoft 365 environments.</p>
 
 - 📫 How to reach me **jonathan.medinalabrador@gmail.com**
 
